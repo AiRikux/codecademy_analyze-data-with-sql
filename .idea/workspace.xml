@@ -14,7 +14,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="226NEDgHArHKn9ZvFQDiEC4SQnZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +35,26 @@
       <option name="presentableId" value="Default" />
       <updated>1639153962712</updated>
     </task>
+    <task id="LOCAL-00001" summary="trying to test making a table">
+      <created>1639158344040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639158344040</updated>
+    </task>
+    <task id="LOCAL-00002" summary="project - create a table with sql">
+      <created>1639158425561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639158425561</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trying to test making a table" />
+    <MESSAGE value="project - create a table with sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="project - create a table with sql" />
   </component>
 </project>
